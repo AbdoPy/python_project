@@ -1028,6 +1028,7 @@
 # D = dict(zip(keyslist, valslist))
 # D = dict.fromkeys(['a', 'b'])
 # Alternative construction techniques:
+
 # keywords, zipped pairs, key lists
 # D['eggs']
 # D['food']['ham']
