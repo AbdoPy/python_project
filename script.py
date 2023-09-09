@@ -28,8 +28,6 @@
 #     print(i)
 
 ######################################### Strings ################################
-
-
 # s = 'Spam'
 # print(len(s)) # Length
 # print(s[1]) # The first item in S, indexing by zero-based position
