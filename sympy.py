@@ -18,3 +18,4 @@ R = smp.sqrt((2/(n*a))**3*smp.factorial(n-l-1)/(2*n*(smp.factorial(n+1))))*smp.e
 ######
 ####
 solveset(Eq(x**2, x), 0)
+solveset(x**2 + 1, x)
