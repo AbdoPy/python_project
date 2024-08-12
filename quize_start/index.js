@@ -14,12 +14,12 @@ let questions = [
     {
         numb: 1,
         question: "من هو ذو النورين?",
-        answer: "Hyper Text Markup Language",
+        answer: "عمر ابن الخطاب",
         options: [
-            "Hyper Text Preprocessor",
-            "Hyper Text Markup Language",
-            "Hyper Text Multiple Language",
-            "Hyper Tool Multi Language"
+            "علي بن ابي طالب",
+            "عثمان بن عفان",
+            "ابي بكر الصديق ",
+            "عمر إبن الخطاب"
         ]
     },
     {
