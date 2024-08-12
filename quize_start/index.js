@@ -13,7 +13,7 @@ const timeCount = document.querySelector(".timer .timer_sec");
 let questions = [
     {
         numb: 1,
-        question: "What does HTML stand for?",
+        question: "من هو ذو النورين?",
         answer: "Hyper Text Markup Language",
         options: [
             "Hyper Text Preprocessor",
