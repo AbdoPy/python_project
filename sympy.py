@@ -1,8 +1,6 @@
 import sympy as smp
 import numpy as np
 import matplotlib.pyplot as plt
-
-
 from sympy import assoc_laguerre
 
 r, a = smp.symbols('r a', real=True, positive=True)
