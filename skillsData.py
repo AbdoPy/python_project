@@ -105,7 +105,6 @@ def quit_app():
     print("Quit The App")
     commit_and_close()
     
-
 # Check If Command Is Exists
 if user_input in commands_list:
     
