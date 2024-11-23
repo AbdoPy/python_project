@@ -4,7 +4,7 @@ from unittest import result
 ############## Creat Database And Connect #########################
 db = sqlite3.connect("skills.db")
 
-# Setting Up The Cursor
+##################### Setting Up The Cursor #######################
 cr = db.cursor()
 
 # Creat The Tables And Fields 
