@@ -13,7 +13,7 @@ db.execute("CREATE TABLE IF NOT EXISTS skills(user_id integer, skill text, progr
 ################## My User Id  ################################################################
 uid = 2
 
-# Commit and Close Method
+######################### Commit and Close Method  ############################################
 def commit_and_close():
     
     """Commit Changes and Close Connection To Database"""
