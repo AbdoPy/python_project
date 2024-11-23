@@ -44,7 +44,6 @@ commands_list = ["s", "a", "d", "u", "q"]
 
 # Define The Methods
 
-
 def show_skills():
     cr.execute(f"select * from skills where user_id = {uid}")
     
