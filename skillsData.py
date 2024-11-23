@@ -7,7 +7,7 @@ db = sqlite3.connect("skills.db")
 ##################### Setting Up The Cursor #######################
 cr = db.cursor()
 
-# Creat The Tables And Fields 
+#################### Creat The Tables And Fields ####################
 db.execute("CREATE TABLE IF NOT EXISTS skills(user_id integer, skill text, progress integer)")
 
 # My User Id
