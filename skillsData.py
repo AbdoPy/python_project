@@ -10,7 +10,7 @@ cr = db.cursor()
 #################### Creat The Tables And Fields ####################
 db.execute("CREATE TABLE IF NOT EXISTS skills(user_id integer, skill text, progress integer)")
 
-# My User Id
+################## My User Id  ################################################################
 uid = 2
 
 # Commit and Close Method
