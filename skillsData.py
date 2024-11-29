@@ -1,7 +1,7 @@
 import sqlite3
 from unittest import result
 
-############## Creat Database And Connect #########################
+############## Creat Database And Connect #####################################################
 db = sqlite3.connect("skills.db")
 
 ##################### Setting Up The Cursor ###################################################
